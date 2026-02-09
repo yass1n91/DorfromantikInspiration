@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"fr.iutfbleau.dorfmantik"},{"l":"fr.iutfbleau.dorfmantik.controleur"},{"l":"fr.iutfbleau.dorfmantik.model"},{"l":"fr.iutfbleau.dorfmantik.vue"}];updateSearchResults();
